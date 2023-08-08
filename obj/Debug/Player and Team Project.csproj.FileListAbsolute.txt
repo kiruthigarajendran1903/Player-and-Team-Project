@@ -1,0 +1,8 @@
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\bin\Debug\Player and Team Project.exe.config
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\bin\Debug\Player and Team Project.exe
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\bin\Debug\Player and Team Project.pdb
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\obj\Debug\Player and Team Project.csproj.AssemblyReference.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\obj\Debug\Player and Team Project.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\obj\Debug\Player and Team Project.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\obj\Debug\Player and Team Project.exe
+D:\SimpliLearn\Phase End Project\C# Final project\Player and Team Project\Player and Team Project\obj\Debug\Player and Team Project.pdb
